@@ -1,0 +1,3 @@
+String URL= "http://api.openweathermap.org/data/2.5/forecast";
+TestData="";
+APPID="bee9c46f47d6097760537d0eff29a3b2";
